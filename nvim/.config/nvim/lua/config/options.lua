@@ -1,1 +1,1 @@
-vim.opt.clipboard = "unnamedplus"
+-- vim.opt.guicursor = {"n:underline"}
